@@ -77,10 +77,10 @@ Everything is returned as a single JSON object:
     ]
   }
 }
-
+```
 ---
 
-## 11. How this maps to the course feature list
+## 3. How this maps to the course feature list
 
 The project uses several of the concepts from the “Features to Include in Your Agent Submission” list.  
 Here’s how Burnout Guardian lines up with that checklist.
